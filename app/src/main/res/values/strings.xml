@@ -1,8 +1,21 @@
 <resources>
     <string name="app_name">ExamenUD1HLC</string>
+    <string name="titulo_verifica">VERIFICA</string>
+    <string name="titulo_introduceDatos">INTRODUCCION DE DATOS</string>
 
-    <string name="stSaludame">SALÚDAME</string>
-    <string name="stDondeEstudias">¿DÓNDE ESTUDIAS?</string>
-    <string name="stBuscaVideo">BUSCA TU BIDEO FAVOTIRTO</string>
+
+
+    <string name="stbtSaludame">SALÚDAME</string>
+    <string name="stbtDondeEstudias">¿DÓNDE ESTUDIAS?</string>
+    <string name="stbtBuscaVideo">BUSCA TU VIDEO FAVORITO</string>
+
+    <string name="stInfo">Para poder saludarte escribe tu nombre</string>
+    <string name="stInfotext">Nombre</string>
+    <string name="stbtAceptar">ACEPTAR</string>
+
+    <string name="stInfo2">Hola. Esto es muy facil, pero date prisa!!</string>
+    <string name="stbtAcepto">ACEPTO TU SALUDO</string>
+    <string name="stbtRechazo">RECHAZO TU SALUDO</string>
+
 
 </resources>
