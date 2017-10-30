@@ -1,5 +1,9 @@
 <resources>
     <string name="app_name">ExamenUD1HLC</string>
+    <string name="titulo_verifica">VERIFICA</string>
+    <string name="titulo_introduceDatos">INTRODUCCION DE DATOS</string>
+
+
 
     <string name="stbtSaludame">SALÚDAME</string>
     <string name="stbtDondeEstudias">¿DÓNDE ESTUDIAS?</string>
