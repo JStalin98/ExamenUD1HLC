@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ExamenUD1HLC</string>
+
+    <string name="stSaludame">SALÚDAME</string>
+    <string name="stDondeEstudias">¿DÓNDE ESTUDIAS?</string>
+    <string name="stBuscaVideo">BUSCA TU BIDEO FAVOTIRTO</string>
+
+</resources>
