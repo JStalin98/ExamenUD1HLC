@@ -4,26 +4,32 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.jstalin.examenud1hlc.MainActivity"
+    tools:context="com.example.jstalin.examenud1hlc.IntroduceDatos"
     android:orientation="vertical">
 
-    <Button
+    <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/stbtSaludame"
-        android:onClick="saludar"/>
+        android:text="@string/stInfo"/>
+    <EditText
+        android:id="@+id/etNombre"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/stInfotext"/>
 
     <Button
-        android:layout_width="match_parent"
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/stbtDondeEstudias"
-        android:onClick="abrirUbicacion"/>
+        android:gravity="center"
+        android:text="@string/stbtAceptar"
+        android:onClick="aceptar"/>
 
-    <Button
+    <TextView
+        android:id="@+id/tvRespuesta"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/stbtBuscaVideo"
-        android:onClick="buscarVideo"/>
+        android:textSize="20dp"/>
 
 
 </LinearLayout>
